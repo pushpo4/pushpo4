@@ -1,6 +1,6 @@
 # Lorna Haiyes (@lornahaiyes)
 <div style="text-align: center;">
-  <img src="https://i.imgur.io/QP7Rup6_d.webp?maxwidth=640&shape=thumb&fidelity=medium" alt="Profile Picture" style="border-radius: 50%;" width="200" height="200" />
+  <img src="https://www4.lunapic.com/do-not-link-here-use-hosting-instead/16988627811527909?87002074149" alt="Profile Picture" style="border-radius: 50%;" width="200" height="200" />
 </div>
 <!-- Replace with your profile picture -->
 
