@@ -1,14 +1,14 @@
-# Lorna Haiyes (@lornahaiyes)
-<div style="text-align: center;">
+# Pushpo Islam (@pushpo4)
+<!--div style="text-align: center;">
   <img src="https://www4.lunapic.com/do-not-link-here-use-hosting-instead/16988627811527909?87002074149" alt="Profile Picture" style="border-radius: 50%;" width="200" height="200" />
-</div>
+</div-->
 <!-- Replace with your profile picture -->
 
-Hi, I'm **Lorna Haiyes**! 👋
+Hi, I'm **Pushpo Islam**! 👋
 
-- **Pronouns:** She/Her
+- **Pronouns:** He/Him
 - **Bio:** I've never been interrogated, but I have ordered a sandwich at Subway, so I think I'm prepared.
-- **College:** Siddheswari Girls' College
+- **College:** [Secret]
 
 ## About Me
 I'm a passionate developer with a love for coding and a knack for problem-solving. In my free time, you can find me experimenting with new technologies, exploring open-source projects, and enjoying a good book.
@@ -22,14 +22,14 @@ I'm a passionate developer with a love for coding and a knack for problem-solvin
 ## Repositories
 Here are some of my featured repositories:
 
-1. [SmartHomeHub](https://github.com/lornahaiyes/SmartHomeHub) - A centralized home automation hub for controlling and monitoring your smart devices.
-2. [OnlineStoreJS](https://github.com/lornahaiyes/OnlineStoreJS) - An advanced online store application in JavaScript using Node.js, Express, and MongoDB.
-3. [WeatherApp](https://github.com/lornahaiyes/WeatherApp) - A weather application using Node.js and Express to fetch and display weather information.
+1. [SmartHomeHub](https://github.com/pushpo4/SmartHomeHub) - A centralized home automation hub for controlling and monitoring your smart devices.
+2. [OnlineStoreJS](https://github.com/pushpo4/OnlineStoreJS) - An advanced online store application in JavaScript using Node.js, Express, and MongoDB.
+3. [WeatherApp](https://github.com/pushpo4/WeatherApp) - A weather application using Node.js and Express to fetch and display weather information.
 
 Feel free to explore them and contribute if you're interested!
 
 ## Contact
-- GitHub: [@lornahaiyes](https://github.com/lornahaiyes)
+- GitHub: [@pushpo4](https://github.com/pushpo4)
 - LinkedIn: [Lorna Haiyes](https://www.linkedin.com/in/lornahaiyes/)
 - Email: lornahaiyes@gmail.com
 
