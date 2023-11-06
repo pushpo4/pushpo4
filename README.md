@@ -14,10 +14,10 @@ Hi, I'm **Pushpo Islam**! 👋
 I'm a passionate developer with a love for coding and a knack for problem-solving. In my free time, you can find me experimenting with new technologies, exploring open-source projects, and enjoying a good book.
 
 ## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lornahaiyes&show_icons=true&count_private=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pushpo4&show_icons=true&count_private=true&theme=dark)
 
 ## Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lornahaiyes&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pushpo4&layout=compact&theme=dark)
 
 ## Repositories
 Here are some of my featured repositories:
